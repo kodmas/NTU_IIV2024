@@ -1,0 +1,22 @@
+13
+15
+3
+0
+1
+7
+8
+6
+9
+11
+2
+14
+12
+5
+10
+4
+16
+
+
+Best objective  = 204.12
+Used rounds = 115124
+Executing time = 1
